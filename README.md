@@ -48,6 +48,7 @@
 
 +React / TypeScript:
 
+- *Текущий: Доска с объявлениями: [repository](https://github.com/akseee/aksito)*
 - [Канбан доска](https://akseee-kanban-board.netlify.app/): [**repository**](https://github.com/akseee/kanban-)
 - [Страница с отзывами заведения](https://reviews-db.netlify.app/): [**repository**](https://github.com/akseee/reviews)
 - [Поисковик по героям Звездных войн](https://akseee-star-wars-database-search.netlify.app): [**repository**](https://github.com/akseee/star-wars-search)
