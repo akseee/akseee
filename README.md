@@ -49,7 +49,6 @@
 +React / TypeScript:
 
 - *Текущий: [Командная разработка приложения e-commerce ](https://cherkasovaa.github.io/e-commerce-application/)*
-
 - Доска с объявлениями: [repository](https://github.com/akseee/aksito)
 - [Канбан доска](https://akseee-kanban-board.netlify.app/): [**repository**](https://github.com/akseee/kanban-)
 - [Страница с отзывами заведения](https://reviews-db.netlify.app/): [**repository**](https://github.com/akseee/reviews)
